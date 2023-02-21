@@ -8,7 +8,7 @@
 
 ![GabriMX7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriMX7&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/GabriMX7/GabriMX7/blob/output/github-contribution-grid-snake.svg)
-
 ## Rede Social do GabriMX7
+
+
 
