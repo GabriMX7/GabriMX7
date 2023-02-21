@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola Eu sou o GabriMX7 🔥
 
-<!--
-**GabriMX7/GabriMX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabriMX7)
 
-Here are some ideas to get you started:
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cHDTJGXrvJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![lnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrimx7?igshid=YmMyMTA2M2Y=)
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31mojyts442bkh4uvlla3yyfmi6u?si=bRDU1DSASqWgSdYcJCOAtA&utm_source=copy-link)
+
+![GabriMX7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriMX7 &show_icons=true&theme=dracula)
+
+## Rede Social do GabriMX7
