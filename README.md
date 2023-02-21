@@ -1,4 +1,4 @@
-### Ola Eu sou o GabriMX7 🔥
+### Ola Eu sou o GabriMX7 👏
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabriMX7)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cHDTJGXrvJ)
