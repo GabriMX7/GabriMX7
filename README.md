@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <p>Feito com :heart: e JavaScript.</p>
+  <p> GabriMX7 </p>
 
   <p>Créditos: <a href="https://github.com/GabriMX7/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 
