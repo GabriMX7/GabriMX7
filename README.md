@@ -10,5 +10,18 @@
 
 ## Rede Social do GabriMX7
 
-![Snake animation](https://github.com/GabriMX7/GabriMX7/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+  
+
+</div>
+
+<div align="center">
+
+  <p>Feito com :heart: e JavaScript.</p>
+
+  <p>Créditos: <a href="https://github.com/GabriMX7/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+
+</div>
