@@ -22,6 +22,6 @@
 
   <p> GabriMX7 </p>
 
-  <p>Créditos: <a href="https://github.com/GabriMX7/github-readme-stats">GabriMX7</a> e <a href="https://github.com/rafaballerini">GabriMX7</a></p>
+  <p>Créditos: <a href="https://github.com/GabriMX7/github-readme-stats"></a> e <a href="https://github.com/rafaballerini">GabriMX7</a></p>
 
 </div>
