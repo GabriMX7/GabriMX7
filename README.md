@@ -5,5 +5,7 @@
 
 ![GabriMX7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriMX7&show_icons=true&theme=dracula&count_private=true)
 
-## O luxo atrai os amigos, o sofrimento os seleciona 🚀  
+## O luxo atrai os amigos, o sofrimento os seleciona 🚀
+
+https://dsc.gg/gabrimx7
 
