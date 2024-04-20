@@ -7,5 +7,7 @@
 
 ## O luxo atrai os amigos, o sofrimento os seleciona 🚀
 
-https://dsc.gg/gabrimx7
+## https://dsc.gg/gabrimx7 
+
+## https://bio.link/gabrimx7
 
