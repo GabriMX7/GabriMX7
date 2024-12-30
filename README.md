@@ -28,7 +28,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e9ae42ed7c8333eebdae0f4191eef92f.gif" width='800'>
 </div>
 
-<h1 align="center">Contribuições e Feedback</h1>
+<h1 align="center">Contribuições e Feedback 🤝</h1>
 
 <h3 align="center">Sua opinião é importante para nós!
 
