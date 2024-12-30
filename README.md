@@ -16,9 +16,7 @@
 
 ![GabriMX7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriMX7&show_icons=true&theme=dracula&count_private=true)
 
-## 
-
-## > https://gabrimx7.github.io/
+<h1 ## > https://gabrimx7.github.io/</h1>
 
 ## > https://dsc.gg/gabrimx7 
 
