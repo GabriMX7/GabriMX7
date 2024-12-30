@@ -44,8 +44,8 @@
 
 <h3 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h3>
 
-<h2 align="center">[Site](https://dsc.gg/gabrimx7)</h2>
-
 - E-mail : [gabrimx7@example.com](gabrimx7@example.com)
 
 - Redes Sociais : [Seu Perfil](https://bio.link/gabrimx7)
+
+- [Suporte](https://dsc.gg/gabrimx7)
