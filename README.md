@@ -27,3 +27,9 @@
 </div>
 
 <h1 align="center">Aqui</h1>
+
+<h1 align="center">https://gabrimx7.github.io/</h1>
+
+<h1 align="center">https://bio.link/gabrimx7</h1>
+
+<h1 align="center">https://dsc.gg/gabrimx7</h1>
