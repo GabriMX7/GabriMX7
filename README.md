@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Eu sou o GabriMX7</h1>
-<h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona </h3>
+<h1 align="center">Olá! Eu sou o GabriMX7 🍀</h1>
+<h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona 🎭💸 </h3>
 
 <h3 align="center">Bem-vindo ao meu site oficial, Gabrimx7! Aqui você encontrará tudo sobre o SAMP Launcher, incluindo a funcionalidade de gerenciamento de mods por datas modificadas e muito mais. Explore conteúdos exclusivos, tutoriais e recursos para melhorar sua experiência no San Andreas Multiplayer.. </h3>
 
