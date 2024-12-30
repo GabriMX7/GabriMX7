@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/828837670fb7905b3cd629de90cb8bec.gif" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/xxxtentacion.gif" width='800'>
 </div>
 
 <h1 align="center">Aqui estão alguns links úteis</h1>
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e9ae42ed7c8333eebdae0f4191eef92f.gif" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/lil peep.gif" width='800'>
 </div>
 
 <h1 align="center">Contribuições e Feedback</h1>
@@ -37,7 +37,7 @@
 - Participe do nosso Discord para compartilhar ideias e colaborar com a comunidade.  </h3>
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e690c5041204f51810faf61b71a21d2d.gif" width='800'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/juice wrld.gif" width='800'>
 </div>
 
 <h1 align="center">Contato</h1>
