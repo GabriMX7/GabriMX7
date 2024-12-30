@@ -22,7 +22,7 @@
 
 <h1 align="center">https://dsc.gg/gabrimx7</h1>
 
-<h1 align="center">desktop</h1>
+
 
 <div align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e9ae42ed7c8333eebdae0f4191eef92f.gif" width='800'>
