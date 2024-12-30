@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o GabriMX7 ☘️</h1>
-<h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona.</h3>
+<h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona 😮‍💨</h3>
 
 <div align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/gabrimx7.png" width='800'>
