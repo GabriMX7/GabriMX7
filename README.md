@@ -1,4 +1,7 @@
 <div align="center">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/gabrimx7.png" width='800'>
+</div>
+<div align="center">
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/828837670fb7905b3cd629de90cb8bec.gif" width='800'>
 </div>
 <h1 align="center">Olá! Eu sou o GabriMX7 ☘️</h1>
