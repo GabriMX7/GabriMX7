@@ -26,9 +26,13 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e9ae42ed7c8333eebdae0f4191eef92f.gif" width='800'>
 </div>
 
-<h1 align="center">Eu vc é</h1>
+<h1 align="center">Contribuições e Feedback</h1>
 
-<h3 align="center">https://github.com/GabriMX7/Rede-Social</h3>
+<h3 align="center">Sua opinião é importante para nós!  
+- Envie sugestões ou relatórios de bugs através da seção de **Contato** no site.  
+- Participe do nosso **Discord** para compartilhar ideias e colaborar com a comunidade.  </h3>
+
+##
 
 ## 📫 Contato
 
