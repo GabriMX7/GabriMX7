@@ -14,7 +14,7 @@
 
 <h1 align="center">Aqui estão alguns links úteis 🔗</h1>
 
-<h1 align="center">Contato.</h1>
+<h5 align="center">Contato.</h5>
 
 <h1 align="center">https://gabrimx7.github.io/</h1>
 
