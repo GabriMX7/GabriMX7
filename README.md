@@ -40,7 +40,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/e690c5041204f51810faf61b71a21d2d.gif" width='800'>
 </div>
 
-<h1 align="center">Contato</h1>
+<h1 align="center">Contato 🌐</h1>
 
 <h1 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h1>
 
