@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o GabriMX7 ☘️</h1>
 <h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona 😮‍💨</h3>
 
-<h3 align="center">Bem-vindo ao meu site do gabrimx7 relacionado ao samp launcher batatas modificadas e muito mais. </h3>
+<h3 align="center">Bem-vindo ao meu site do gabrimx7 relacionado ao samp launcher datas modificadas e muito mais. </h3>
 
 
 <div align="center">
