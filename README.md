@@ -30,7 +30,7 @@
 
 <h1 align="center">Eu vc é</h1>
 
-<h1 align="center">https://gabrimx7.github.io/</h1>
+<h3 align="center">https://github.com/GabriMX7/Rede-Social</h3>
 
 <h1 align="center">https://bio.link/gabrimx7</h1>
 
