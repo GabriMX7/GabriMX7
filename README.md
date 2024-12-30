@@ -31,7 +31,3 @@
 <h1 align="center">Eu vc é</h1>
 
 <h3 align="center">https://github.com/GabriMX7/Rede-Social</h3>
-
-<h1 align="center">https://bio.link/gabrimx7</h1>
-
-<h1 align="center">https://dsc.gg/gabrimx7</h1>
