@@ -42,9 +42,9 @@
 
 <h1 align="center">Contato 🌐</h1>
 
-<h1 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h1>
+<h3 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h3>
 
-<h2 align="center">https://dsc.gg/gabrimx7</h2>
+<h2 align="center">[Site](https://dsc.gg/gabrimx7)</h2>
 
 - E-mail : [gabrimx7@example.com](gabrimx7@example.com)
 
