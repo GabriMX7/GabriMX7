@@ -12,7 +12,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/xxxtentacion.gif" width='800'>
 </div>
 
-<h1 align="center">Aqui estão alguns links úteis</h1>
+<h1 align="center">Aqui estão alguns links úteis 🌐</h1>
 
 <h3 align="center">Contato</h3>
 
@@ -28,7 +28,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/lil peep.gif" width='800'>
 </div>
 
-<h1 align="center">Contribuições e Feedback</h1>
+<h1 align="center">Contribuições e Feedback 🤝</h1>
 
 <h3 align="center">Sua opinião é importante para nós!
 
@@ -40,7 +40,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=".github/juice wrld.gif" width='800'>
 </div>
 
-<h1 align="center">Contato</h1>
+<h1 align="center">Contato 📬</h1>
 
 <h3 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h3>
 
