@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o GabriMX7 ☘️</h1>
 <h3 align="center">Uma Frase O luxo atrai os amigos, o sofrimento os seleciona 😮‍💨</h3>
 
-<h3 align="center">Bem-vindo ao meu site de Data para samp launcher! Aqui você encontrará conteúdos incríveis para amantes de datas, sejam eles iniciantes ou profissionais. Este projeto foi criado com o objetivo de compartilhar conhecimento, inspiração e ferramentas relacionadas ao universo samp</h3>
+<h3 align="center">Bem-vindo ao meu site do gabrimx7 relacionado ao samp launcher batatas modificadas e muito mais. </h3>
 
 
 <div align="center">
