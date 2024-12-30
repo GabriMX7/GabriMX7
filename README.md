@@ -26,3 +26,9 @@
 <h1 align="center">Eu vc é</h1>
 
 <h3 align="center">https://github.com/GabriMX7/Rede-Social</h3>
+
+## 📫 Contato
+
+Se tiver dúvidas ou sugestões, entre em contato:  
+- **E-mail**: [seuemail@example.com](mailto:seuemail@example.com)  
+- **Redes Sociais**: [Seu Perfil](https://linkdasuarede.com)
