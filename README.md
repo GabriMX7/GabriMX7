@@ -44,7 +44,7 @@
 
 <h1 align="center">Se tiver dúvidas ou sugestões, entre em contato:  </h1>
 
-<h1 align="center">https://dsc.gg/gabrimx7</h1>
+<h2 align="center">https://dsc.gg/gabrimx7</h2>
 <h3 align="center">
-- E-mail : [seuemail@example.com](mailto:seuemail@example.com)  
-- Redes Sociais : [Seu Perfil](https://linkdasuarede.com)</h3>
+- E-mail : [seuemail@example.com]()  
+- Redes Sociais : [Seu Perfil]()</h3>
